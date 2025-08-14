@@ -1,0 +1,28 @@
+# Node.js
+node_modules/
+dist/
+.env
+.env.local
+
+# Webpack cache
+.cache/
+webpack-stats.json
+
+# Babel
+babel.config.js
+
+# Jest
+coverage/
+jest.config.js
+
+# VSCode
+.vscode/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS
+.DS_Store
+Thumbs.db
